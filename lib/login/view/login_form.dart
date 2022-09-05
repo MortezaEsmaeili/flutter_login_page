@@ -185,7 +185,7 @@ class _LoginButton extends StatelessWidget {
                       }
                     : null,
                 child: const Text(
-                  'ورود',
+                  'Login',
                   style: TextStyle(fontWeight: FontWeight.w900),
                 ),
               );
